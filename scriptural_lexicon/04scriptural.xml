@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+alphabet="ipa"
+xml:lang="en-GB">
+  <lexeme>
+    <grapheme>Shemnon</grapheme>
+    <phoneme>ˈʃɛmnɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sherem</grapheme>
+    <phoneme>ˈʃɛrəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shez</grapheme>
+    <phoneme>ʃɛz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shiblom</grapheme>
+    <phoneme>ˈʃɪbləm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shule</grapheme>
+    <phoneme>ʃuːl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Salem</grapheme>
+    <phoneme>ˈseɪlɛm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sebus,</grapheme>
+    <phoneme>ˈsiːbəs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shazer</grapheme>
+    <phoneme>ˈʃeɪzər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shelem</grapheme>
+    <phoneme>ˈʃiːlɛm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shemlon,</grapheme>
+    <phoneme>ˈʃɛmlɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sherrizah,</grapheme>
+    <phoneme>ʃɛˈraɪzə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shiloah,</grapheme>
+    <phoneme>ʃaɪˈloʊə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shilom</grapheme>
+    <phoneme>ˈʃaɪləm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shimnilom,</grapheme>
+    <phoneme>ʃɪmˈnaɪlɒm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shurr,</grapheme>
+    <phoneme>/ʃɜːr</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sidom,</grapheme>
+    <phoneme>ˈsaɪdəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sinim,</grapheme>
+    <phoneme>ˈsaɪnɪm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Siron,</grapheme>
+    <phoneme>ˈsaɪrən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Teomner</grapheme>
+    <phoneme>tiˈɒmnər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Tubaloth</grapheme>
+    <phoneme>ˈtuːbəlɒθ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>zerin,</grapheme>
+    <phoneme>ˈziːrɪn</phoneme>
+  </lexeme>
+
+
+  <lexeme>
+    <grapheme>Zemnarihah</grapheme>
+    <phoneme>zɛmnəˈraɪhɑː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Zenephi</grapheme>
+    <phoneme>ˈziːnəfaɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Zerahemnah</grapheme>
+    <phoneme>zɛrəˈhɛmnə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Zeram</grapheme>
+    <phoneme>ˈziːrəm</phoneme>
+  </lexeme>
+</lexicon>
